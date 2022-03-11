@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-}
+
 .menu li a.Configuracoes:before {
     content: "\f1c1";
 }
@@ -60,7 +60,7 @@ body {
     width: 3.5em;
     line-height: 2.5em;
     text-align: center;
-    align-self: ;
+    align-self: center;
     color: #6e6fa7;
     position: relative;
     border-bottom: 1px solid rgba(0, 0, 0, 0.05);
@@ -299,4 +299,5 @@ button:hover{
     .menu-bar {
         top: 5em;
     }
+}
 }
