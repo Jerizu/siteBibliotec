@@ -224,7 +224,7 @@ button:hover{
         margin-top: 100px;
     }
     .menu {
-        height: 2.5em;
+        height: 2.1em;
         width: 100%;
         border-radius: 20px;
     }
@@ -280,7 +280,7 @@ button:hover{
         width: auto;
     }
     .menu {
-        height: auto;
+        height: 2.1em;
     }
     .menu-bar {
         top: 2.5em;
@@ -294,10 +294,19 @@ button:hover{
         width: auto;
     }
     .menu {
-        height: auto;
+        height: 2.1em;
     }
     .menu-bar {
         top: 5em;
     }
+    .divButton {
+    margin: auto;
+    position:relative;
+    display:list-item;  
+    justify-content: center;  
+    align-items: center; 
+    padding-top: 15%; 
+    width: 200px;
+    }  
 }
 }
