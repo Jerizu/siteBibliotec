@@ -52,12 +52,13 @@ body {
 }
 
 .menu li a {
+    justify-content: center;
     background-color: rgb(240, 240, 240);
     margin: 0;
     padding: 0;
     display:inline-flex;
-    height: 2.5em;
-    width: 3.5em;
+    height: auto;
+    width: 4.5em;
     line-height: 2.5em;
     text-align: center;
     align-self: center;
@@ -94,7 +95,9 @@ body {
     background: #267fdd;
     color: #fff;
 }
-
+span {
+    padding-top: 1.5e;
+}
 .menu-bar {
     overflow: hidden;
     left: 3.5em;
