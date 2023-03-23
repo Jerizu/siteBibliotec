@@ -177,7 +177,7 @@ button:hover{
         margin-top: 100px;
     }
     .menu {
-        height: auto;
+        height: 3.3em;
         width: 100%;
         border-radius: 20px;
     }
@@ -198,7 +198,7 @@ button:hover{
     .menu-bar {
         width: 100%;
         left: 0;
-        height: 0;
+        f: 0;
         top: 2.5em;
         border-radius: 20px;
     }
@@ -227,7 +227,7 @@ button:hover{
         margin-top: 100px;
     }
     .menu {
-        height: auto;
+        height: 3.3em;
         width: 100%;
         border-radius: 20px;
     }
@@ -272,7 +272,7 @@ button:hover{
         width: auto;
     }
     .menu {
-        height: auto;
+        height: 3.3em;
     }
 }
 
@@ -283,7 +283,7 @@ button:hover{
         width: auto;
     }
     .menu {
-        height: auto;
+        height: 3.3em;
     }
      .menu li a {
         width: auto;
@@ -301,7 +301,7 @@ button:hover{
         width: auto;
     }
     .menu {
-        height: auto;
+        height: 3.3em;
     }
     .menu-bar {
         top: 5em;
