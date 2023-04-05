@@ -186,6 +186,7 @@ button:hover{
         border-radius: 20px;
     }
     .menu li a {
+        padding-inline: 0.5em;
         width: auto;
         border-radius: 20px;
     }
@@ -236,6 +237,7 @@ button:hover{
         border-radius: 20px;
     }
     .menu li a {
+        padding-inline: 0.5em;
         width: auto;
         border-radius: 20px;
     }
@@ -286,6 +288,7 @@ button:hover{
         height: 3.3em;
     }
      .menu li a {
+        padding-inline: 0.5em;
         width: auto;
         border-radius: 20px;
     }
