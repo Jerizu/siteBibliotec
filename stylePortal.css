@@ -272,6 +272,7 @@ button {
         width: auto;
     }
     .menu {
+        border-radius: 0px 0px 20px 20px;
         height: auto;
     }
 }
@@ -283,7 +284,7 @@ button {
         width: auto;
     }
     .menu {
-        border-radius:0px 0px 20px 20px;
+        border-radius: 0px 0px 20px 20px;
         height: auto;
     }
     .menu-bar {
@@ -298,7 +299,7 @@ button {
         width: auto;
     }
     .menu {
-        border-radius:0px 0px 20px 20px;
+        border-radius: 0px 0px 20px 20px;
         height: auto;
     }
     .menu-bar {
